@@ -1,4 +1,6 @@
 <h2>In-Class Assignment</h2>
+ <h3>1st Project</h3>
+
 Following the examples provided in the required learning materials, create a new .NET console application. This application should accomplish two things:
 <p>
 Display some text using <code><b>Console.WriteLine() or Console.Write()</b></code>.
